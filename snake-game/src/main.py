@@ -3,6 +3,9 @@ import sys
 import random
 from utils import draw_snake, draw_food, display_game_over
 
+
+# Fazendo a primeira versao do jogo
+
 # Inicializa o pygame
 pygame.init()
 
